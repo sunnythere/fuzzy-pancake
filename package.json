@@ -1,0 +1,23 @@
+{
+  "name": "bbawc-next",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Y.Alice Chang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "next": "^6.0.3",
+    "prismic-dom": "^2.1.0",
+    "prismic-javascript": "^1.5.0-beta.3",
+    "prismic-reactjs": "^0.3.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
